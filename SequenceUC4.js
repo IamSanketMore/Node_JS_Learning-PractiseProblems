@@ -1,5 +1,4 @@
-//Use Script & Debug – Write a program that reads 5 Random 2 Digit values ,
-//then find their sum and the average
+//Use Script & Debug – Write a program that reads 5 Random 2 Digit values then find their sum and the average
 
 console.log("Five Random digit are ");
 for (let i=1; i < 5; i++)
